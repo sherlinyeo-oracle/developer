@@ -59,13 +59,9 @@ In this lab, you will:
 
       The post java installation actions can be configured differently based on different requirements.
   
-7. Select the  **Change minimum key length for RSA** option from the dropdown list. Another combo box will appear to the right. This contains the new minimum key length (in bits) that will be set for RSA signed jars.
+7. Select the  **Change minimum key length for RSA** option from the dropdown list. Another combo box will appear to the right. This contains the new minimum key length (in bits) that will be set for RSA signed jars. Click on the combo box that appeared on the right. Select **2048**.
 
    ![image of LCM minimimum-rsa-key-length](images/lcm-minimum-rsa-key-length.png)
-
-   Click on the combo box that appeared on the right. Select **2048**.
-
-   ![image of LCM minimimum-rsa-key-length](images/post-install-rsa-select.png)
 
 8. Click on the **+ another action** button to add an additional post java installation action. Another combo box with the placeholder "Select an action" should appear in the next line. 
 
@@ -184,4 +180,4 @@ In this lab, you will:
 ## Acknowledgements
 
 * **Author** - Yixin Wei, Java Management Service
-* **Last Updated By** - Bao Jin Lee, November 2022
+* **Last Updated By** - Sherlin Yeo, March 2023
