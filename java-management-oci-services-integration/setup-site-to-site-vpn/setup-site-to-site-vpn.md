@@ -766,4 +766,4 @@ Once you have finishing setting up Site-to-Site VPN, you can install and configu
 ## Acknowledgements
 
 * **Author** - Bhuvesh Kumar, Java Management Service
-* **Last Updated By** - Bhuvesh Kumar, July 2022
+* **Last Updated By** - Sherlin Yeo, March 2023
