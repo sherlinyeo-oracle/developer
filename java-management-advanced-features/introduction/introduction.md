@@ -52,4 +52,4 @@ _Estimated Time:_ 195 minutes
 
 ## Acknowledgements
 * **Author** - Bhuvesh Kumar, Java Management Service
-* **Last Updated By** - Bao Jin Lee, November 2022
+* **Last Updated By** - Sherlin Yeo, March 2023
