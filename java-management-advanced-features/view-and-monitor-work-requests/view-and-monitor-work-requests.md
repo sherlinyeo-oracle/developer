@@ -76,7 +76,7 @@ In this lab, you will:
 3. If you would like to view the log messages for the Work Request, select **Log Messages** under **Resources**. You should see the log messages in detail.
  ![image of work request log messages](images/delete-work-request-log-messages.png)
 
-4. If your Work Request was unsuccessful, you may view the error messages by selecting **Error Messages** under **Resources**. You should see the status as **Failed** and the corresponding error messages.
+4. If your Work Request was unsuccessful, you may view the error messages by selecting **Error Messages** under **Resources**. You should see the status as **Completed with errors** and the corresponding error messages.
   ![image of work request failed error messages](images/delete-work-request-failed-error-message.png)
 
 
