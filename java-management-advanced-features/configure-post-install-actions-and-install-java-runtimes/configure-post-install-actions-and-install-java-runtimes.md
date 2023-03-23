@@ -97,7 +97,7 @@ In this lab, you will:
 
    ![image of install java runtime selected next](images/install-java-runtime-selected-next.png)
 
-4. The next page should display a list of post java installation actions which had been defined previously in [Task 1](##task-1:-Defining-Post-Java-Installation-Actions). Select the post java installation you want to perform. 
+4. The next page should display a list of post java installation actions which had been defined previously in [Task 1](#Task1:EnableandSetupPostJavaInstallationActions). Select the post java installation you want to perform. 
 
    ![image of install java runtime select post install action](images/install-java-runtime-select-post-install-action.png)
 
