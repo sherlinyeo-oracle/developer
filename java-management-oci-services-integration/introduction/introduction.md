@@ -55,4 +55,8 @@ _Estimated Time:_ 45 minutes
 ## Acknowledgements
 
 * **Author** - Xin Yi Tay, Java Management Service
+<<<<<<< HEAD
 * **Last Updated By/Date** - Sherlin Yeo, March 2023
+=======
+* **Last Updated By/Date** - Sherlin Yeo, March 2023 
+>>>>>>> 454f417 (WMS completed)
